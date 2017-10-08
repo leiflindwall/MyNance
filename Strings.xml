@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Monthly Goal Tracker</string>
+  <string name="monthly_current">Current Goal</string>
+  <string name="monthly_new">Add New Goal</string>
+  <string name="monthly_edit">Edit Current Goal</string>
+</resources>
